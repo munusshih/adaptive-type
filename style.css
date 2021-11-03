@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inconsolata', monospace;
+}
+canvas {
+  display: block;
+}
+
+input {
+  display: block;
+}
+.variable {
+  background: purple;
+  position:fixed;
+  top: 25%;
+  left: 5%;
+
+  width: 90%;
+  height: auto;
+
+  line-height: 0.7;
+
+  color: #fff;
+  padding-left: 5px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  /* font-variation-settings: 'wght' 850; */
+}
